@@ -123,17 +123,6 @@ Order ID truyền qua query parameter URL. Không `Uri.encodeComponent` thì ký
 
 ---
 
-## Checklist nộp bài
-
-| Bài | Bằng chứng cần nộp |
-|-----|-------------------|
-| 1 | Ảnh `flutter run`, cấu trúc thư mục, `pubspec.yaml`, `constants.dart` |
-| 2 | Ảnh QR trên thiết bị, ảnh quét app ngân hàng, `order_helper.dart`, `payment_screen.dart` |
-| 3 | **Video** luồng QR → chuyển khoản → thành công; `sepay_service.dart`, `success_screen.dart` |
-| 4 | Ảnh countdown + loading; video flight mode; toàn bộ source |
-
----
-
 ## Tác giả
 
 Lab thực hành PRM393 — SePay Payment Integration
